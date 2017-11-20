@@ -1,0 +1,6 @@
+.tmp
+vendors
+.bowerrc
+node_modules
+package-lock.json
+public
