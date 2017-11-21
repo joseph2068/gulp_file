@@ -1,0 +1,1 @@
+{"version":3,"sources":["all.js","all2.js"],"names":["news","news2"],"mappings":"aAAA,IAAIA,KAAO,aAAXA,OCAA,IAAIC,MAAQ,aAIZA","file":"all.js","sourcesContent":["let news = () => {console.log(\"a\")}\r\n\r\nnews();","let news2 = () => {\r\n    console.log(\"b\")\r\n}\r\n\r\nnews2();"]}
